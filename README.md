@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @coding-firefly
+- 👋 Hi, I’m @coding-firefly, aka Gs-H
 - 👀 I’m interested in python language & framework
-- 🌱 I’m currently learning mostly everything about python
+- 🌱 I’m currently learning mostly everything about python, including security
 - 💞️ I’m looking to collaborate on fun stuff
 - ⚡ Fun fact: journey never end
 
